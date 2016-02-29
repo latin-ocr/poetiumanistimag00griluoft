@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poetiumanistimag00griluoft_0007.png"; bbox 0 0 2002 3161; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 155 226 1716 366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 155 226 1716 366">
+     <span class='ocr_line' id='line_1_1' title="bbox 155 226 1716 366; baseline -0.008 -3"><span class='ocrx_word' id='word_1_1' title='bbox 155 234 683 366; x_wconf 83' lang='grc' dir='ltr'>ΡΟΕΤΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 821 226 1716 362; x_wconf 78' lang='lat' dir='ltr'>UMANISTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 619 566 1234 658">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 619 566 1234 658">
+     <span class='ocr_line' id='line_1_2' title="bbox 619 566 1234 658; baseline -0.008 -2"><span class='ocrx_word' id='word_1_3' title='bbox 619 566 1234 658; x_wconf 73' lang='lat' dir='ltr'>MAGOEORl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 837 965 1046 1001">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 837 965 1046 1001">
+     <span class='ocr_line' id='line_1_3' title="bbox 837 965 1046 1001; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 837 965 1046 1001; x_wconf 77' lang='lat' dir='ltr'>AAAAA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 419 1117 1451 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 419 1117 1451 1155">
+     <span class='ocr_line' id='line_1_4' title="bbox 419 1117 1451 1155; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 419 1117 1451 1155; x_wconf 77' lang='lat' dir='ltr'>OOOOOOOOOOOOOOOOOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 759 1586 1151 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 759 1586 1151 2136">
+     <span class='ocr_line' id='line_1_5' title="bbox 759 1586 1151 2136; baseline 0 1025"><span class='ocrx_word' id='word_1_6' title='bbox 759 1586 1151 2136; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 440 2653 1446 2706">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 440 2653 1446 2706">
+     <span class='ocr_line' id='line_1_6' title="bbox 440 2653 1446 2706; baseline -0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 440 2655 650 2704; x_wconf 73' lang='lat' dir='ltr'>CASA</span> <span class='ocrx_word' id='word_1_8' title='bbox 705 2653 1446 2706; x_wconf 57' lang='lat' dir='ltr'>EDsTRMHES.LA91</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 872 2831 1028 2880">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 872 2831 1028 2880">
+     <span class='ocr_line' id='line_1_7' title="bbox 872 2831 1028 2880; baseline -0.006 -1"><span class='ocrx_word' id='word_1_9' title='bbox 872 2831 1028 2880; x_wconf 82' lang='lat'>1914</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
